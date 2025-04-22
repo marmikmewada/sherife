@@ -357,7 +357,7 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">My Portfolio</h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              A showcase of my recent projects and the technologies I've worked with.
+              A showcase of my recent projects and the technologies I have worked with.
             </p>
           </div>
 
@@ -436,7 +436,7 @@ export default function Home() {
             <div className="md:w-3/5">
               <h2 className="text-3xl md:text-4xl font-bold mb-6">About Me</h2>
               <p className="text-lg text-gray-600 mb-6">
-                Hello! I'm Sherife, a passionate web and mobile app developer based in Turkey with over 8 years of
+                Hello! I am Sherife, a passionate web and mobile app developer based in Turkey with over 8 years of
                 experience in creating digital solutions for clients worldwide.
               </p>
               <p className="text-lg text-gray-600 mb-6">
@@ -445,7 +445,7 @@ export default function Home() {
                 problem-solving to deliver solutions that exceed expectations.
               </p>
               <p className="text-lg text-gray-600 mb-8">
-                When I'm not coding, you can find me exploring new technologies, contributing to open-source projects,
+                When I am not coding, you can find me exploring new technologies, contributing to open-source projects,
                 or enjoying the beautiful Turkish coastline.
               </p>
 
@@ -513,7 +513,7 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Client Testimonials</h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Don't just take my word for it. Here's what my clients have to say about working with me.
+              Do not just take my word for it. Here is what my clients have to say about working with me.
             </p>
           </div>
 
@@ -540,7 +540,7 @@ export default function Home() {
                     </span>
                   ))}
                 </div>
-                <p className="text-gray-600 italic">"{testimonial.content}"</p>
+                <p className="text-gray-600 italic">{testimonial.content}</p>
               </div>
             ))}
           </div>
@@ -572,7 +572,7 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Get In Touch</h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Have a project in mind? Let's discuss how I can help bring your ideas to life.
+              Have a project in mind? Let us discuss how I can help bring your ideas to life.
             </p>
           </div>
 
@@ -687,8 +687,8 @@ export default function Home() {
                   </li>
                 </ul>
                 <p className="mt-4 text-gray-600 text-sm">
-                  I'm flexible with scheduling calls across different time zones. Feel free to suggest a time that works
-                  for you.
+                  I am flexible with scheduling calls across different time zones. Feel free to suggest a time that
+                  works for you.
                 </p>
               </div>
             </div>
